@@ -1,6 +1,6 @@
 # Phase 2: Data Engineering & Harmonization
 
-Healthcare data rarely lives in a single database. This phase demonstrates how to build a unified patient timeline from disparate, siloed systems.
+Healthcare data rarely lives in a single database. This phase demonstrates how to build a unified patient timeline from disparate, siloed systems..
 
 **Key Objectives:**
 * Programmatically generate synthetic patient journeys.
